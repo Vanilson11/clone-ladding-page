@@ -3,7 +3,7 @@
     <img src="assets/imgs/preview.JPG" alt="Preview do projeto">
 </p>
 
->Status: concluído
+>Status: ainda não responsivo para telas menores
 
 ## Sobre o projeto
 Esse é um projeto de clone de uma ladding page de e-comerce de uma loja de toalhas. Foi um desafio que resolvi realizar para consolidar meus conhecimentos nos conceitos de CSS FlexBox e Grid Layout. Por isso a ladding page está estática, sem nenhuma interação com o usuário(ainda). O objetivo maior desse projeto era a consolidação das aprendizagens em CSS FlexBox e Grid Layout.
