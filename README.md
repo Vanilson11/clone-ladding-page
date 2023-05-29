@@ -16,3 +16,5 @@ Esse é um projeto de clone de uma ladding page de e-comerce de uma loja de toal
 
 ## Fontes
 Para a realização do projeto, precisei realizar um clone de um modelo de ladding page disponibilizado no [Figma Community](https://www.figma.com/community). Você pode acessar o layout do projeto no Figma através [deste link](https://www.figma.com/file/CdWBsP9yd57dBwY7OSSKvF/E-commerce---Landing-Page-(Community)?type=design&node-id=1-2&t=9i9nEbWBhv4qz21E-0).
+
+Você pode acessar ao projeto funcionando através [deste link](https://vanilson11.github.io/clone-ladding-page/)
